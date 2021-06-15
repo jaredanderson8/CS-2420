@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jaredbrian/Desktop/school stuff/5th Semester/CS 2420/Assingment 2/main.cpp
+sstream
+-
+chrono
+-
+iostream
+-
+set
+-
+

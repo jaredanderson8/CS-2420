@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/cs2420.dir/main.cpp.o -o cs2420 

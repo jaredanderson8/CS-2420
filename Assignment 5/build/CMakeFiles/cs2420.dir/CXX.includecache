@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jaredbrian/Desktop/school stuff/5th Semester/CS 2420/Assingment 5/main.cpp
+iostream
+-
+unordered_map
+-
+forward_list
+-
+string
+-
+sstream
+-
+functional
+-
+chrono
+-
+algorithm
+-
+

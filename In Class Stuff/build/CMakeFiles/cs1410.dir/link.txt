@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/cs1410.dir/main.cpp.o -o cs1410 
